@@ -7,3 +7,9 @@ File handle:
 Data.txt:
 
           Record 0~4.data binary file of context.
+
+Excel library Reference:
+
+          https://pypi.python.org/pypi/xlrd
+          
+          https://pypi.python.org/pypi/xlwt
